@@ -74,7 +74,7 @@ This identifies how recreational behavioral cycles post-legalization influence t
 ### G. Risk Stratification (Holiday Risk / HRT)
 **Holiday Risk (High-Risk Temporal)** is defined as high-volatility windows encompassing:
 - Federal holidays
-- 72–96 hour travel buffers
+- 72–96 hour travel buffers starting from Friday 6:00 pm to Monday 6:00 am
 
 The map visualizes these windows to observe how mass transit and celebratory behaviors amplify the lethal synergy of cannabis and opioids.
 
