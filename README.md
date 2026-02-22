@@ -2,6 +2,7 @@
 
 > A longitudinal, multi-dimensional surveillance framework analyzing the impact of cannabis-polysubstance co-use on motor vehicle fatalities across the United States.
 
+Live surveillance: https://aidea1.github.io/US-Cannabis-Polysubstance-Fatalities/
 ---
 
 ## 📋 Table of Contents
